@@ -19,6 +19,8 @@ simple app geting and displaying data using redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### use `npm install` to install it locally
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
